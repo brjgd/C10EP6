@@ -1,0 +1,117 @@
+body{
+	background-color: gray;
+	font-family: sans-serif;
+	color: gray;
+}
+.divImg {
+	height: 30px;
+	text-align: center;
+}
+.imgClass {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    position: relative;
+    bottom: 120px;
+    border: solid 5px;
+}
+.colorFont{
+	color: #c7502a;
+}
+.subtitle{
+	font-size: x-large;
+	font-weight: bold;
+}
+.center{
+	margin: 0 auto 0 auto;
+	padding: 60px;
+}
+.divCenter {
+    background-color: white;
+    width: 70%;
+    height: 840px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.boxText{
+	background-color: rgba(128, 128, 128, 0.15);
+	padding: 10px;
+	margin-top: 2px;
+}
+.boxTitle{
+	font-weight: bold;
+	color: black;
+}
+.font-small{
+	font-size: small;
+}
+.divExper{
+
+}
+.upDiv{
+	text-align: center;
+	font-size: x-large;
+	border-bottom: solid 1px #d6d6d6;
+	margin-bottom: 2px;
+}
+.upDiv span{
+	font-weight: bold;
+}
+.downDiv{
+	border-top: solid 1px #d6d6d6;
+}
+.barraNaranja{
+    background-color: #c7502a;
+    padding: 0 5px;
+}
+.barraNaranja p{
+	color: white;
+	padding: 5px;
+}
+.hobbiesDiv {
+    width: 75px;
+    display: inline-block;
+    height: 21px;
+    text-align: center;
+    color: white;
+}
+.divStar{
+	float: right;
+}
+.prinDivStar{
+	height: 22px;
+    border-bottom: solid 1px #d6d6d6;
+}
+.col3{
+	width: 69%;
+	display: inline-block;
+}
+.col2{
+	width: 30%;
+	float: right;
+}
+.col4{
+	width: 80%;
+	display: inline-block;
+
+}
+.col1{
+	width: 15%;
+	float: left;
+}
+.col4-2{
+	width: 75%;
+	display: inline-block;
+
+}
+.col1-2{
+	width: 20%;
+	float: left;
+}
+
+.footer{
+    text-align: right;
+    font-size: small;
+    border-top: solid 1px #d6d6d6;
+    padding: 7px;
+}
